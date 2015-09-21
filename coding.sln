@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
-VisualStudioVersion = 12.0.30723.0
+VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "h-index", "h-index\h-index.vcxproj", "{A488C74F-DD37-4CC7-9806-E0A9FD159A81}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "3sum", "3sum\3sum.vcxproj", "{6CA4FFF2-2E0A-486F-8532-37A545E3CD97}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{A488C74F-DD37-4CC7-9806-E0A9FD159A81}.Debug|Win32.Build.0 = Debug|Win32
 		{A488C74F-DD37-4CC7-9806-E0A9FD159A81}.Release|Win32.ActiveCfg = Release|Win32
 		{A488C74F-DD37-4CC7-9806-E0A9FD159A81}.Release|Win32.Build.0 = Release|Win32
+		{6CA4FFF2-2E0A-486F-8532-37A545E3CD97}.Debug|Win32.ActiveCfg = Debug|Win32
+		{6CA4FFF2-2E0A-486F-8532-37A545E3CD97}.Debug|Win32.Build.0 = Debug|Win32
+		{6CA4FFF2-2E0A-486F-8532-37A545E3CD97}.Release|Win32.ActiveCfg = Release|Win32
+		{6CA4FFF2-2E0A-486F-8532-37A545E3CD97}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
