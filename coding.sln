@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "h-index", "h-index\h-index.
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "3sum", "3sum\3sum.vcxproj", "{6CA4FFF2-2E0A-486F-8532-37A545E3CD97}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "rank-scores", "rank-scores\rank-scores.vcxproj", "{6C1FCF7D-A60C-4EF2-8587-FB1A65831BF7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -21,6 +23,10 @@ Global
 		{6CA4FFF2-2E0A-486F-8532-37A545E3CD97}.Debug|Win32.Build.0 = Debug|Win32
 		{6CA4FFF2-2E0A-486F-8532-37A545E3CD97}.Release|Win32.ActiveCfg = Release|Win32
 		{6CA4FFF2-2E0A-486F-8532-37A545E3CD97}.Release|Win32.Build.0 = Release|Win32
+		{6C1FCF7D-A60C-4EF2-8587-FB1A65831BF7}.Debug|Win32.ActiveCfg = Debug|Win32
+		{6C1FCF7D-A60C-4EF2-8587-FB1A65831BF7}.Debug|Win32.Build.0 = Debug|Win32
+		{6C1FCF7D-A60C-4EF2-8587-FB1A65831BF7}.Release|Win32.ActiveCfg = Release|Win32
+		{6C1FCF7D-A60C-4EF2-8587-FB1A65831BF7}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
